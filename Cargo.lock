@@ -91,6 +91,7 @@ checksum = "904dfeac50f3cdaba28fc6f57fdcddb75f49ed61346676a78c4ffe55877802fd"
 [[package]]
 name = "beacon-api-client"
 version = "0.1.0"
+source = "git+https://github.com/ralexstokes/beacon-api-client#d3305ee25eca9f095b3a983efffaa7a25ca9accd"
 dependencies = [
  "ethereum-consensus",
  "http",
