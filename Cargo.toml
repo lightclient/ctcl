@@ -2,6 +2,13 @@
 name = "ctcl"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Tool for analyzing the Ethereum consensus layer."
+homepage = "https://github.com/lightclient/ctcl"
+repository = "https://github.com/lightclient/ctcl"
+readme = "README.md"
+keywords = ["ethereum", "consensus-layer"]
+categories = ["cryptography::cryptocurrencies", "command-line-utilities", "development-tools"]
 
 [dependencies]
 beacon-api-client = { git = "https://github.com/ralexstokes/beacon-api-client" }
